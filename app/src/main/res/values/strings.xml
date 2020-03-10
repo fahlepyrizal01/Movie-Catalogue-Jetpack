@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="text_title">Title :</string>
+    <string name="text_date">Date :</string>
+    <string name="text_overview">Overview :</string>
+    <string name="text_language">Language :</string>
+    <string name="text_movie_details">Movie Details</string>
+    <string name="text_movies">Movies</string>
+    <string name="text_tv_series">TV Series</string>
+    <string name="text_imageview_movie_poster">ImageView Movie Poster</string>
+    <string name="text_id">ID :</string>
+    <string name="text_vote_average">Vote Average :</string>
+    <string name="text_vote_count">Vote Count :</string>
+    <string name="text_popularity">Popularity :</string>
+    <string name="text_favorites">Favorites</string>
+    <string name="text_favorite_not_found">Favorite Not Found</string>
+    <string name="text_something_went_wrong">Something went wrong</string>
+    <string name="text_favorite_list">Favorite List</string>
+</resources>
